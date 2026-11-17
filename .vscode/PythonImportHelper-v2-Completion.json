@@ -1,0 +1,56 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Name",
+        "kind": 6,
+        "importPath": "class",
+        "description": "class",
+        "peekOfCode": "class Name():\n    not_allowed=[\"shit\", \"fuck\"]\n    def __init__(self, name):\n        self.name= name\n    def cones(self):\n        if self.name in Name.not_allowed :\n            raise ValueError(\"name not allowed\") \n        else:\n            return f\"{self.name}\"\nnada =Name(\"shit\")        ",
+        "detail": "class",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "names = [\"nada\", \"mohammed\", \"sara\"]\nfor index, name in enumerate(names):\n    print(f\"{index}: {name}\")\nstudents = [\"nada\", \"zahrar\"]\nscores = [95, 88]\nfor student, score in zip(students, scores):\n    print(f\"{student}: {score}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "students = [\"nada\", \"zahrar\"]\nscores = [95, 88]\nfor student, score in zip(students, scores):\n    print(f\"{student}: {score}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "scores",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "scores = [95, 88]\nfor student, score in zip(students, scores):\n    print(f\"{student}: {score}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "numpylib",
+        "description": "numpylib",
+        "peekOfCode": "a = np.sin(30)\nb= np.floor(83.4845545)\nprint(a)",
+        "detail": "numpylib",
+        "documentation": {}
+    }
+]
