@@ -83,3 +83,8 @@ The project features professional multi-plot data dashboards designed with a cle
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/nada-aldubaie2/ecommerce-orders-analysis.git](https://github.com/your-username/ecommerce-orders-analysis.git)
+
+---
+
+
+## ⭐ If you found this project helpful, feel free to give it a star!
