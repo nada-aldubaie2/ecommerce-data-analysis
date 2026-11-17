@@ -7,6 +7,7 @@
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
+- - [Dataset Source](#dataset-source)
 - [Dataset Features](#dataset-features)
 - [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
 - [Key Exploratory Data Analysis (EDA)](#key-exploratory-data-analysis-eda)
@@ -22,6 +23,11 @@ In today’s competitive e-commerce ecosystem, leveraging data is crucial for ma
 
 ---
 
+## 📂 Dataset Source
+The data used in this project is publicly available on Kaggle:
+* **Dataset Link:** [E-Commerce Orders Dataset on Kaggle](https://www.kaggle.com/datasets/mohammedslimane/ecommerce-orders?resource=download)
+
+---
 ## 📊 Dataset Features
 The dataset includes key attributes such as:
 * **Customer Information:** `customer_id`, `customer_age`, `country`, `signup_date`
