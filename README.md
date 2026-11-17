@@ -7,7 +7,7 @@
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
-- - [Dataset Source](#dataset-source)
+- [Dataset Source](#dataset-source)
 - [Dataset Features](#dataset-features)
 - [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
 - [Key Exploratory Data Analysis (EDA)](#key-exploratory-data-analysis-eda)
