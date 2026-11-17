@@ -1,8 +1,7 @@
 # 🛒 E-Commerce Orders: Exploratory Data Analysis & Predictive Insights
 
 > An end-to-end data analysis project exploring e-commerce order transactions, customer behaviors, product returns, and future sales trend forecasting using Python.
-![Dashboard Preview](dashboard.png))
-
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
